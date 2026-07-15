@@ -15,11 +15,11 @@ The proposed lung cancer prediction framework consists of two major components: 
 ### Framework Overview
 
 <p align="center">
-  <img src="Results/Proposed method.png" alt="Framework Overview" width="900">
+  <img src="Results/Proposed method.png" alt="Framework Overview" width="500">
 </p>
 
 <p align="center">
-<b>Figure 1.</b> Overall architecture of the proposed lung cancer prediction framework.
+<b>Figure 1.</b> Overall architecture of the proposed methodology.
 </p>
 
 ---
@@ -27,9 +27,9 @@ The proposed lung cancer prediction framework consists of two major components: 
 ### Processing Workflow
 
 <p align="center">
-  <img src="figures/methodology_workflow.png" alt="Processing Workflow" width="900">
+  <img src="Results/working_procedures.png" alt="Processing Workflow" width="500">
 </p>
 
 <p align="center">
-<b>Figure 2.</b> Detailed workflow of the proposed methodology, illustrating data preprocessing, feature engineering, model training, hyperparameter optimization, evaluation, and prediction.
+<b>Figure 2.</b> Detailed workflow of the proposed methodology
 </p>
